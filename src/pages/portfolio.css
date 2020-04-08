@@ -1,0 +1,11 @@
+
+.form-group {
+    margin-bottom: 1rem;
+    align-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.col-form-label {
+    margin-right: 20px;
+}
