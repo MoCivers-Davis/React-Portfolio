@@ -6,7 +6,11 @@ import "./footer.css";
 function Footer() {
   return (
     <footer>
-      <p> My footer</p>
+      <div className="row">
+        <h6 className="col-12 text-center text-dark bg-blue p-3 m-0">
+      Enjoy my page!
+    </h6>
+    </div>
     </footer>
   );
 }

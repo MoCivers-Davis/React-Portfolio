@@ -1,5 +1,6 @@
 import React from "react";
 import photo from "./profile.jpg";
+import resume from './resume.pdf';
 import "./home.css";
 
 
@@ -9,7 +10,7 @@ function Home() {
             <div className="row">
                 <div className="col-5">
                     <h3>About Me</h3>
-                    <img src={photo} id="my-pic" alt="Mo's pic" width="300" height="300" />
+                    <img src={photo} id="my-pic" alt="Mo's pic" width="300" height="280" />
                 </div>
 
                 <div className="col-6">
@@ -35,17 +36,16 @@ function Home() {
             </div>
 
             <div className="row">
-                <div className="col-6">
+                <div className="col-12">
                     <h5>Links</h5>
                     <p><a href="https://www.linkedin.com/in/r-maurice-civers-davis-11978777/">Connect via
                                     Linkedin</a></p>
                     <p><a href="https://github.com/MoCivers-Davis">Mo's GitHub Profile</a></p>
                     {/* <iframe src={"resume.pdf"} title="mo resume"/> */}
+                    <a href={resume} target="_blank" rel="noopener noreferrer" className="text-blue">Link to resume</a>
                     <h6 class="phoneNumber">Phone Number: 484-367-5720</h6>
                 </div>
-                <div className="col-5">
-                    <p><a href="https://github.com/MoCivers-Davis">Mo's GitHub Profile</a></p>
-                </div>
+
             </div>
 
         </section>

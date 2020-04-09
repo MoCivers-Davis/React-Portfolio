@@ -62,7 +62,7 @@ export default class extends React.Component {
   }
 	
 
-  // sends email via emailjs to Mo
+  // sends email via email to Mo
   sendMessage (templateId, variables) {
 
 	window.emailjs.send('gmail', templateId, variables)
