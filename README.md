@@ -1,4 +1,4 @@
-![screenshot of Portfolio](./pages/Portfolio.png)
+![screenshot of Portfolio](./pages/portfolio.png)
 
 # Mo Civers-Davis React Portfolio
 
