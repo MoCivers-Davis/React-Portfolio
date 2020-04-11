@@ -6,6 +6,8 @@ import stats from "./stats.png";
 import notes from "./notes.png";
 import manager from "./manager.png";
 import employeeDir from "./employeeDir.png";
+import google from "./google.png";
+
 
 
 function Portfolio() {
@@ -23,7 +25,7 @@ function Portfolio() {
                     <Card title="Solo Project 2" desc="Fitness Tracker App" />
                     <img src={fitness} id="my-pic" alt="Mo's pic" width="287" height="200" />
                     <p><a href="https://peaceful-basin-13128.herokuapp.com/ ">Heroku Deployed Link</a></p>
-                <p><a href="https://mocivers-davis.github.io/Workout-Tracker-App/">Deployed App Link</a></p>
+                    <p><a href="https://mocivers-davis.github.io/Workout-Tracker-App/">Deployed App Link</a></p>
                 </div>
                 <div className="col-4">
                     <Card title="Solo Project 3" desc="Employee Management System" />
@@ -33,8 +35,8 @@ function Portfolio() {
 
             </div>
             <br></br>
-            <div className="row">
 
+            <div className="row">
                 <div className="col-4">
                     <Card title="Solo Project 4" desc="Notetaker App" />
                     <img src={notes} id="my-pic" alt="Mo's pic" width="287" height="200" />
@@ -43,11 +45,21 @@ function Portfolio() {
                 </div>
 
                 <div className="col-4">
+                    <Card title="Solo Project 5" desc="Google Books" />
+                    <img src={google} id="my-pic" alt="Mo's pic" width="287" height="200" />
+                    <p><a href="https://github.com/MoCivers-Davis/Google-books">GitHub Repo Link</a></p>
+                    <p><a href="https://dry-temple-00410.herokuapp.com/">Heroku Deployed App Link</a></p>
+                </div>
+                <div className="col-4">
                     <Card title="Group Project 1" desc="COVID-19 Tracker" />
                     <img src={covid} id="my-pic" alt="COVID19" width="287" height="200" />
                     <p><a href="https://github.com/MoCivers-Davis/Covid-19-Tracking-App">GitHub Repo Link</a></p>
-                <p><a href="https://covid-19-tracking-app.herokuapp.com/">Heroku Deployed Link</a></p>
+                    <p><a href="https://covid-19-tracking-app.herokuapp.com/">Heroku Deployed Link</a></p>
                 </div>
+
+            </div>
+            <br></br>
+            <div className="row">
                 <div className="col-4">
                     <Card title="Group Project 2" desc="Stats On The Fly" />
                     <img src={stats} id="my-pic" alt="Mo's pic" width="287" height="200" />

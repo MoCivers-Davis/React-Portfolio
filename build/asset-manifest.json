@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.f4529061.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.37b279f4.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.37b279f4.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.2316dad8.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.2316dad8.js.map",
+    "static/js/2.7e129d84.chunk.js": "/React-Portfolio/static/js/2.7e129d84.chunk.js",
+    "static/js/2.7e129d84.chunk.js.map": "/React-Portfolio/static/js/2.7e129d84.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.8e0a9cac406e38d578e91bb706aba336.js": "/React-Portfolio/precache-manifest.8e0a9cac406e38d578e91bb706aba336.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.f4529061.chunk.css.map": "/React-Portfolio/static/css/main.f4529061.chunk.css.map",
+    "static/js/2.7e129d84.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.7e129d84.chunk.js.LICENSE.txt",
+    "static/media/covid.png": "/React-Portfolio/static/media/covid.1c416450.png",
+    "static/media/employeeDir.png": "/React-Portfolio/static/media/employeeDir.5925f4b0.png",
+    "static/media/fitness.png": "/React-Portfolio/static/media/fitness.ec21acc6.png",
+    "static/media/manager.png": "/React-Portfolio/static/media/manager.8c690aea.png",
+    "static/media/notes.png": "/React-Portfolio/static/media/notes.580193b4.png",
+    "static/media/profile.jpg": "/React-Portfolio/static/media/profile.6860c3c7.jpg",
+    "static/media/resume.pdf": "/React-Portfolio/static/media/resume.bb6365bb.pdf",
+    "static/media/stats.png": "/React-Portfolio/static/media/stats.2a4cd494.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2316dad8.js",
+    "static/js/2.7e129d84.chunk.js",
+    "static/css/main.f4529061.chunk.css",
+    "static/js/main.37b279f4.chunk.js"
+  ]
+}
