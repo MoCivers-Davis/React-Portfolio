@@ -1,4 +1,4 @@
-![screenshot of Portfolio](./pages/Portfolio.png)
+![screenshot of Portfolio](src/pages/Portfolio.png)
 
 # Mo Civers-Davis React Portfolio
 
@@ -77,4 +77,3 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 Link to GitHub Repo: https://github.com/MoCivers-Davis/React-Portfolio
 Link to Deployed Github Pages: 
-
